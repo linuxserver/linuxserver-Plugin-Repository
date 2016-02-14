@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/petersm1/openvpn_client_x64/master/openvpn_client_x64.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/linuxserver/mediabuild/master/plugins/mediabuild.plg</PluginURL>
 <PluginAuthor>CHBMB</PluginAuthor>
 <Beta>False</Beta>
 <Category>MediaApp:Other MediaServer:Other Tools:System</Category>
