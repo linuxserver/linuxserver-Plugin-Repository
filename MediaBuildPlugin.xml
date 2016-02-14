@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/petersm1/openvpn_client_x64/master/openvpn_client_x64.plg</PluginURL>
+<PluginAuthor>CHBMB</PluginAuthor>
+<Beta>False</Beta>
+<Category>MediaApp:Other MediaServer:Other Tools:System</Category>
+<Date>2016-02-14</Date> 
+<Name>MediaBuild Plugin</Name>
+<Description>
+A plugin to allow you to easily install any of CHBMB's media builds for unRaid
+</Description>
+<Changes>
+###2016.02.14
+- Initial Release
+</Changes>
+<Support></Support>
+<Icon>https://raw.githubusercontent.com/linuxserver/mediabuild/master/source/mediabuild/usr/local/emhttp/plugins/mediabuild/images/mediabuild.png</Icon>
+</Containers>
