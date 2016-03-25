@@ -40,5 +40,5 @@ Once installed you can then use the MythTV Docker or a TVHeadEnd docker/plugin t
 - Internal release for the V6.2 Beta 18 release.  OpenElec and TBS Builds.
 </Changes>
 <Support></Support>
-<Icon>https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/source/mediabuild/usr/local/emhttp/plugins/UnraidDVB/images/UnraidDVB.png</Icon>
+<Icon>https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/source/UnraidDVB/usr/local/emhttp/plugins/UnraidDVB/images/UnraidDVB.png</Icon>
 </Containers>
