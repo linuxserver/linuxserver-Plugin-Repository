@@ -19,6 +19,10 @@ There are three versions available:
 Once installed you can then use the MythTV Docker or a TVHeadEnd docker/plugin to use unRAID as a PVR backend.
 </Description>
 <Changes>
+###2016-03-27
+
+- unRAID V6.2 Beta 20 builds done.
+
 ###2016-03-24
 
 - Detect if Unraid V6.2 or later and install appropriate version.
