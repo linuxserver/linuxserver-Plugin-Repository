@@ -19,6 +19,14 @@ There are three versions available:
 Once installed you can then use the MythTV Docker or a TVHeadEnd docker/plugin to use unRAID as a PVR backend.
 </Description>
 <Changes>
+###2016-03-28a
+
+- Updated TVHeadEnd Docker link, was pointing to the MythTV Docker thread.  Sorry Saarg ;)
+
+###2016-03-28
+
+- Updated V6.1.9 and V6.2 Beta 20 to include lirc_zilog module
+
 ###2016-03-27a
 
 - Some display tweaks and ability to downgrade.
