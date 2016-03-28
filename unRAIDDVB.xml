@@ -5,7 +5,7 @@
 <PluginAuthor>CHBMB/Squid</PluginAuthor>
 <Beta>False</Beta>
 <Category>MediaApp:Other MediaServer:Other Tools:System</Category>
-<Date>2016-03-27a</Date> 
+<Date>2016-03-27</Date> 
 <Name>unRAID DVB</Name>
 <Description>
 This plugin from linuxserver.io allows you to easily install a modified unRAID version with DVB drivers compiled.  
