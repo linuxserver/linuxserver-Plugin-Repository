@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
+<MinVer>6.6.6</MinVer>
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/linuxserver/Unraid-Nvidia-Plugin/master/plugins/Unraid-Nvidia.plg</PluginURL>
 <PluginAuthor>LinuxServer.io</PluginAuthor>
