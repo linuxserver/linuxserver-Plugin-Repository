@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg</PluginURL>
+<PluginAuthor>LinuxServer.io</PluginAuthor>
+<Beta>False</Beta>
+<Category>MediaApp:Other MediaServer:Other Tools:System</Category>
+<Date>2016-03-27</Date> 
+<Name>Unraid DVB</Name>
+<Description>
+This plugin from LinuxServer.io allows you to easily install a modified Unraid version with DVB drivers compiled.  
+Remember to add --device=/dev/dvb to the extra parameters in the MythTV/TVHeadEnd docker.
+	
+Once installed you can then use the MythTV Docker or a TVHeadEnd docker/plugin to use Unraid as a PVR backend.
+</Description>
+<Changes>
+###2016-03-27
+
+- Initial Release
+</Changes>
+<Support>https://forums.unraid.net/topic/46194-plugin-linuxserverio-unraid-dvb/</Support>
+<Icon>https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/source/UnraidDVB/usr/local/emhttp/plugins/UnraidDVB/images/UnraidDVB.png</Icon>
+<IconFA>television</IconFA>
+</Containers>

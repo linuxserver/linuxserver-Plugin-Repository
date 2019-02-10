@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/linuxserver/Unraid-Nvidia-Plugin/master/plugins/Unraid-Nvidia.plg</PluginURL>
+<PluginAuthor>LinuxServer.io</PluginAuthor>
+<Beta>False</Beta>
+<Category>MediaApp:Other MediaServer:Other Tools:System</Category>
+<Date>2019-02-09</Date> 
+<Name>Unraid Nvidia</Name>
+<Description>
+This plugin from LinuxServer.io allows you to easily install a modified Unraid version with Nvidia drivers compiled and the docker system modified to use an nvidia container runtime, meaning you can use your GPU in any container you wish.
+</Description>
+<Changes>
+###2019-02-09
+
+- Release
+</Changes>
+<Support>https://forums.unraid.net/topic/77813-plugin-linuxserverio-unraid-nvidia/</Support>
+<Icon>https://raw.githubusercontent.com/linuxserver/Unraid-Nvidia-Plugin/master/source/Unraid-Nvidia/usr/local/emhttp/plugins/Unraid-Nvidia/images/Unraid-Nvidia.png</Icon>
+<IconFA>film</IconFA>
+</Containers>
